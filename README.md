@@ -14,6 +14,7 @@
 - 📫 How to reach me **On Telegram @OriginalAni**
 
 <h3 align="left">Connect with me:</h3>
+<b><a href="https://t.me/OriginalAni">@OriginalAni</a> | Telegram</b>
 <p align="left">
 </p>
 
